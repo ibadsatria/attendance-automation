@@ -18,7 +18,7 @@ invariant(process.env.ACCOUNT_PASSWORD, "secret ACCOUNT_PASSWORD is required");
 
 const PUBLIC_HOLIDAYS = [
   "23 Jan 2023", // cuti bersama imlek
-  "23 Mar 2023", // nyepi
+  "22 Mar 2023", // nyepi
   "23 Mar 2023", // cuti bersama nyepi
   "7 Apr 2023", // wafat isa almasih
   "21 Apr 2023", // idul fitri
